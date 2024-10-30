@@ -1,4 +1,4 @@
-[![Windows][Windows-image]]
+[Windows][Windows-image]
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 ![Python][Python-image]
 ![github][github-image]
