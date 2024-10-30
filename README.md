@@ -1,6 +1,11 @@
 [![Windows][Windows-image]]
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]]
+
+[cc-by-nc-sa]
+
 ![Python][Python-image]
+
 ![github][github-image]
 
 [github-image]: https://img.shields.io/badge/HonkerBit-github-8A2BE2?logoColor=purple
