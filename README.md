@@ -3,6 +3,11 @@
 ![Python][Python-image]
 ![github][github-image]
 
+[github-image]: https://img.shields.io/badge/HonkerBit-github-8A2BE2?logoColor=purple
+[Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
+[Python-image]: https://img.shields.io/badge/Python-100%25-brightgreen
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
 清理py文件里所有不影响运行的东西
 
 下载release
